@@ -1,5 +1,9 @@
 # GÉANT Python interview questions and topics
 
+Please prepare answers to the questions below. 
+Part of the interview will involve you presenting
+your results and discussing them together with the team.
+
 1. Do a code review of the file `primes.py`.
    Suggest improvements to the code or approach.
 2. Create a package that can be deployed so that other
